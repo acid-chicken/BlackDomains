@@ -1,0 +1,2 @@
+# BlackDomains
+Spaming Domain List
